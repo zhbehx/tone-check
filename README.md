@@ -119,6 +119,15 @@ tone-check/
 2. **规则式匹配会有误报。** 「必须」在需求文档里完全正常。
 3. **它不教你「变得圆滑」。** 目标是让事说清楚，不是让话说好听。
 
+## 相关 skill
+
+- **内容与写作**：[爆款文案工坊](https://github.com/zhbehx/viral-copy) · [AI 味检测器](https://github.com/zhbehx/ai-tell)
+- **职场五件套**：[简历对岗改写](https://github.com/zhbehx/resume-tailor) · [面试陪练](https://github.com/zhbehx/interview-coach) · [汇报写作](https://github.com/zhbehx/weekly-report) · [PPT 叙事大纲](https://github.com/zhbehx/slide-story) · [会议纪要](https://github.com/zhbehx/meeting-actions)
+- **避坑与决策**：[JD 红旗检测](https://github.com/zhbehx/jd-redflag) · [合同风险扫描](https://github.com/zhbehx/contract-redflag) · [会议成本](https://github.com/zhbehx/meeting-cost)
+- **发布与沟通**：[隐私自查](https://github.com/zhbehx/privacy-scan)
+
+共同点：零依赖、中文优先、每个都带一个确定性检查脚本。
+
 ## 自定义
 
 1. **加你们团队的口头禅**：`scripts/scan_tone.py` 的 `RULES` 加一条正则。
