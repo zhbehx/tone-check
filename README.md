@@ -148,3 +148,11 @@ A：因为具名才能落地。@三个人各一条，比「大家一起看」有
 ## License
 
 [MIT](./LICENSE)
+
+---
+
+本仓库是 [zhbehx 的 Agent Skill 合集](https://github.com/zhbehx) 之一。
+
+觉得有用就点个 ⭐，是我继续加词库、加行业的动力。
+
+<!-- zhbehx-collection-footer -->
